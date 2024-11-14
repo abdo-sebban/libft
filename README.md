@@ -45,18 +45,18 @@ make
 ### Functions
 The libft library includes a range of functions that replicate the standard C library and extend it with new utilities. Here is a summary of the core functions:
 
------> Standard Library Functions <br>
+### -----> Standard Library Functions
 ft_memset - Fill a block of memory with a particular value <br>
 ft_strlen - Calculate the length of a string. <br>
 ft_strcpy - Copy a string to a destination. <br>
 ft_strcmp - Compare two strings. <br>
 ft_strdup - Duplicate a string in memory. <br>
 And many more...<br>
------> Memory Management <br>
+### -----> Memory Management 
 ft_memcpy - Copy a block of memory.<br>
 ft_memmove - Move a block of memory, safely handling overlaps.<br>
 ft_calloc - Allocate and zero-initialize memory.<br>
------> String Manipulation<br>
+### -----> String Manipulation
 ft_strjoin - Join two strings into a new one.<br>
 ft_split - Split a string into an array of strings based on a delimiter.<br>
 ft_substr - Extract a substring from a string.<br>
