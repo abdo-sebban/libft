@@ -34,7 +34,7 @@
 ## Usage
 
 ### Requirements
-- **GCC** compiler
+- **CC** compiler
 - Standard **C libraries**
 
 ### Compilation
