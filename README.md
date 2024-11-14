@@ -9,7 +9,6 @@
 
 <p align="center">
 	<img alt="Code Size" src="https://img.shields.io/github/languages/code-size/abdo-sebban/libft?color=blueviolet" />
-	<img alt="Lines of Code" src="https://img.shields.io/tokei/lines/github/abdo-sebban/libft?color=blueviolet" />
 	<img alt="Top Language" src="https://img.shields.io/github/languages/top/abdo-sebban/libft?color=blue" />
 	<img alt="Last Commit" src="https://img.shields.io/github/last-commit/abdo-sebban/libft?color=brightgreen" />
 </p>
