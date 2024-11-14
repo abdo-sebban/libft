@@ -41,3 +41,22 @@
 To compile the library, navigate to the project directory and run:
 ```bash
 make
+```
+### Functions
+The libft library includes a range of functions that replicate the standard C library and extend it with new utilities. Here is a summary of the core functions:
+
+-----> Standard Library Functions
+ft_memset - Fill a block of memory with a particular value.
+ft_strlen - Calculate the length of a string.
+ft_strcpy - Copy a string to a destination.
+ft_strcmp - Compare two strings.
+ft_strdup - Duplicate a string in memory.
+And many more...
+-----> Memory Management
+ft_memcpy - Copy a block of memory.
+ft_memmove - Move a block of memory, safely handling overlaps.
+ft_calloc - Allocate and zero-initialize memory.
+String Manipulation
+ft_strjoin - Join two strings into a new one.
+ft_split - Split a string into an array of strings based on a delimiter.
+ft_substr - Extract a substring from a string.
