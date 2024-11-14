@@ -42,7 +42,7 @@ To compile the library, navigate to the project directory and run:
 ```bash
 make
 ```
-### Functions
+## Functions
 The libft library includes a range of functions that replicate the standard C library and extend it with new utilities. Here is a summary of the core functions:
 
 ### -----> Standard Library Functions
